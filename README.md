@@ -1,4 +1,11 @@
 
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaxkyyOfficial.ZaxkyyOfficial&"  />
+</div>
+
+###
 ![Banner](img/Banner%20Github.png)
 ### 💫 About Me:
 👋 Hi, I'm ZaxkyyOfficial — a Content Creator, Designer, and Full-Stack Developer.<br>🎨 I design intuitive UI/UX,<br>💻 I build responsive websites & modern apps,<br>📚 I also create and sell e-learning eBooks.<br><br>💼 Available for freelance projects:<br><br>Website & App Development<br><br>UI/UX Design<br><br>E-Learning eBook Creation<br><br>🚀 Let’s collaborate and bring ideas to life!
@@ -24,21 +31,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ZaxkyyOfficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZaxkyyOfficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaxkyyOfficial/ZaxkyyOfficial/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaxkyyOfficial/ZaxkyyOfficial/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZaxkyyOfficial/ZaxkyyOfficial/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaxkyyOfficial.ZaxkyyOfficial&"  />
-</div>
-
-###
+### Play Games With Me
 
 <img src="https://raw.githubusercontent.com/ZaxkyyOfficial/ZaxkyyOfficial/output/snake.svg" alt="Snake animation" />
 
