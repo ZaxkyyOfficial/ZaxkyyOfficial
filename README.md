@@ -1,5 +1,5 @@
 ## Hello World! I'm ZaxkyyOfficial 👋
-![Banner](img/Banner%20YT.png)
+![Banner](img/Banner%20Github.png)
 <!--
 **ZaxkyyOfficial/ZaxkyyOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
