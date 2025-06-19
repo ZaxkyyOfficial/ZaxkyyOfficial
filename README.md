@@ -1,10 +1,5 @@
 
 ###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaxkyyOfficial.ZaxkyyOfficial&"  />
-</div>
-
 ###
 ![Banner](img/Banner%20Github.png)
 ### 💫 About Me:
@@ -28,3 +23,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ZaxkyyOfficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+![snake gif](https://github.com/ZaxkyyOfficial/ZaxkyyOfficial/blob/output/github-snake-dark.svg)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZaxkyyOfficial.ZaxkyyOfficial&"/>
+</div>
