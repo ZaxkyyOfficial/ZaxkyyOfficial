@@ -28,6 +28,14 @@ Welcome to my GitHub! I am an AI Engineer Cohort, IoT Enthusiast, and Founder of
 - 👯 **Looking to Collaborate On:** Open-source AI projects, IoT innovations, and freelance web development.
 - ⚡ **Fun Fact:** Aside from coding, I am an E-Learning content creator and an active stock market investor.
 
+<br>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1DS9UM4jESzrOG61VljZzLrPs18RrYGax/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_DOWNLOAD_MY_RESUME-2196F3?style=for-the-badge&logoColor=white" alt="Download Resume">
+  </a>
+</div>
+<br>
+
 ### 💼 What I Do (Services)
 As a technical lead and founder, I provide end-to-end solutions:
 * **Custom Web Application:** Building responsive, secure, and fast websites (Laravel, React, Node.js).
@@ -59,6 +67,15 @@ As a technical lead and founder, I provide end-to-end solutions:
 
 ---
 
+### 📝 Latest Articles & E-Learning Updates
+
+* 📘 *Coming Soon:* **[E-Book] Panduan Praktis AI & IoT untuk Developer Pemula**
+* 💻 *Coming Soon:* **Mendeploy Model Computer Vision dengan Flask & React**
+* 💡 *Coming Soon:* **Tips UI/UX Modern untuk Aplikasi Manajemen Skala Besar**
+> *I frequently share tutorials, code snippets, and tech insights. Stay tuned!*
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Full-Stack (Languages)** <br>
@@ -79,11 +96,17 @@ As a technical lead and founder, I provide end-to-end solutions:
 ---
 
 ### 🌐 Let's build something amazing together! 🚀
-Feel free to reach out for freelance projects, open-source collaborations, or to request my full CV.
+Feel free to reach out for freelance projects, open-source collaborations, or just a quick chat.
 
 <p align="center">
   <a href="mailto:zaxkyysoftwarehouse@gmail.com"><img src="https://img.shields.io/badge/Drop%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me Badge"></a>
   <a href="https://linkedin.com/in/zaxkyy-bahtiar"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect Badge"></a>
+</p>
+
+<p align="center">
+  <b>Find my content useful? Consider supporting my work:</b><br><br>
+  <a href="https://saweria.co/Zaxkyy"><img src="https://img.shields.io/badge/Support_Me_on_Trakteer-ED1C24?style=for-the-badge&logo=kofi&logoColor=white" alt="Trakteer"></a>
+  <a href="https://saweria.co/Zaxkyy"><img src="https://img.shields.io/badge/Support_Me_on_Saweria-E4B02E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria"></a>
 </p>
 
 ---
