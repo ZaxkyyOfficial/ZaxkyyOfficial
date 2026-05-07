@@ -30,7 +30,7 @@ Welcome to my GitHub! I am an AI Engineer Cohort, IoT Enthusiast, and Founder of
 
 <br>
 <div align="center">
-  <a href="[https://drive.google.com/file/d/1DS9UM4jESzrOG61VljZzLrPs18RrYGax/view?usp=sharing](https://drive.google.com/file/d/1mDMQols2NTVrs1jfE8qBblr7wTIglIiP/view?usp=sharing)" target="_blank">
+  <a href="https://drive.google.com/file/d/1DS9UM4jESzrOG61VljZzLrPs18RrYGax/view?usp=sharing](https://drive.google.com/file/d/1mDMQols2NTVrs1jfE8qBblr7wTIglIiP/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_DOWNLOAD_MY_RESUME-2196F3?style=for-the-badge&logoColor=white" alt="Download Resume">
   </a>
 </div>
